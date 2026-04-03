@@ -1,12 +1,12 @@
 {
   "mappings": [
-    "/content/testiramo/:/",
-    "/content/testiramo/configuration:/.helix/config.json",
-    "/content/testiramo/headers:/.helix/headers.json",
-    "/content/testiramo/metadata:/metadata.json",
-    "/content/testiramo/enrichment/enrichment.json:/enrichment/enrichment.json"
+    "/content/Testiramo/:/",
+    "/content/Testiramo/configuration:/.helix/config.json",
+    "/content/Testiramo/headers:/.helix/headers.json",
+    "/content/Testiramo/metadata:/metadata.json",
+    "/content/Testiramo/enrichment/enrichment.json:/enrichment/enrichment.json"
   ],
   "includes": [
-    "/content/testiramo/"
+    "/content/Testiramo/"
   ]
 }
