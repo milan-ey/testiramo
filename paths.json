@@ -1,12 +1,12 @@
 {
   "mappings": [
-    "/content/Testiramo/:/",
-    "/content/Testiramo/configuration:/.helix/config.json",
-    "/content/Testiramo/headers:/.helix/headers.json",
-    "/content/Testiramo/metadata:/metadata.json",
-    "/content/Testiramo/enrichment/enrichment.json:/enrichment/enrichment.json"
+    "/content/milan-test/:/",
+    "/content/milan-test/configuration:/.helix/config.json",
+    "/content/milan-test/headers:/.helix/headers.json",
+    "/content/milan-test/metadata:/metadata.json",
+    "/content/milan-test/enrichment/enrichment.json:/enrichment/enrichment.json"
   ],
   "includes": [
-    "/content/Testiramo/"
+    "/content/milan-test/"
   ]
 }
