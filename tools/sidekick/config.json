@@ -1,10 +1,5 @@
 {
-  "project": "testiramo",
-  "host": [
-    "author-p153424-e1601770.adobeaemcloud.com",
-    "*.aem.page",
-    "*.da.live"
-  ],
-  "editUrlLabel": "AEM Author",
-  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}"
+  "project": "AEM XWalk Boilerplate",
+  "editUrlLabel": "AEM Editor",
+  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open"
 }
